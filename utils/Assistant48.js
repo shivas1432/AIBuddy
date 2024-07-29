@@ -1,0 +1,1 @@
+﻿export const processInput = (query) => ({ response: 'Processing...', status: 'active', timestamp: Date.now() });
