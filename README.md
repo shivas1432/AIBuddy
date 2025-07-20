@@ -114,4 +114,4 @@ For questions, issues, or feature requests, please open an issue on GitHub.
 
 ## Repository
 
-[https://github.com/shivas1432/AIBuddy](https://github.com/shivas1432/heyBuddy)
+[https://github.com/shivas1432/AIBuddy](https://github.com/shivas1432/AIBuddy)
